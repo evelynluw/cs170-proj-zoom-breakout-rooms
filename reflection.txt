@@ -1,0 +1,16 @@
+*NOTE: DELETE THE BULLET POINTS AFTER - no more than 1000 words
+• Describe (briefly and informally) the approach you used to generate your inputs, and what other approaches (if
+any) you considered or would like to consider if given more time.
+
+    To generate the inputs, we used the hint to [INSERT HINT SUMMARY]. 
+
+• Describe the algorithm you used for your solver. Why do you think it is a good approach?
+
+
+• What other approaches did you try? How did they perform?
+
+
+• What computational resources did you use? (e.g. AWS, instructional machines, etc.)
+
+
+• If given more time, what else would you try to improve your approach?
