@@ -105,6 +105,8 @@ def read_output_file(path, G, s):
 
             D[node] = room
 
+        print("# of rooms: ", len(rooms))
+        print("D: ", D)
         assert len(nodes) == len(G)
         assert utils.is_valid_solution(D, G, s, len(rooms))
 
