@@ -1,2 +1,6 @@
 __pycache__/*
 .vscode/*
+cp_outputs/*
+outputs/*
+inputs/*
+.DS_Store

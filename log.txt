@@ -1,0 +1,1979 @@
+LOG STARTS
+ERROR OCCURED: i = 0, <class 'FileNotFoundError'>
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 2 failed. Trying 3
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 3 failed. Trying 4
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 4 failed. Trying 5
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 5 failed. Trying 6
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 6 failed. Trying 7
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 7 failed. Trying 8
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 8 failed. Trying 9
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 9 failed. Trying 10
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 2 failed. Trying 3
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 3 failed. Trying 4
+happiness: 53.75
+[[0 1 3 1]
+ [2 3 1 1]
+ [4 7 2 1]
+ [4 9 2 1]
+ [5 8 0 1]
+ [7 9 2 1]
+ [6 6 4 1]] 5
+success! nbrooms = 4
+550
+happiness: 1116.103
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [0 4 0 1]
+ [0 5 0 1]
+ [0 6 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [1 4 0 1]
+ [1 5 0 1]
+ [1 6 0 1]
+ [2 3 0 1]
+ [2 4 0 1]
+ [2 5 0 1]
+ [2 6 0 1]
+ [3 4 0 1]
+ [3 5 0 1]
+ [3 6 0 1]
+ [4 5 0 1]
+ [4 6 0 1]
+ [5 6 0 1]
+ [7 8 1 1]
+ [7 9 1 1]
+ [8 9 1 1]] 2
+room 0 stress = 81.71000000000002, exceeded 45.0
+nbrooms = 1 failed. Trying 2
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 2 failed. Trying 3
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 3 failed. Trying 4
+happiness: 582.194
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 6 0 1]
+ [1 2 0 1]
+ [1 6 0 1]
+ [2 6 0 1]
+ [3 4 2 1]
+ [3 5 2 1]
+ [3 7 2 1]
+ [4 5 2 1]
+ [4 7 2 1]
+ [5 7 2 1]
+ [8 9 1 1]] 3
+success! nbrooms = 4
+550
+happiness: 482.24500000000006
+[[0 1 1 1]
+ [0 3 1 1]
+ [0 4 1 1]
+ [0 5 1 1]
+ [1 3 1 1]
+ [1 4 1 1]
+ [1 5 1 1]
+ [2 6 0 1]
+ [2 9 0 1]
+ [3 4 1 1]
+ [3 5 1 1]
+ [4 5 1 1]
+ [6 9 0 1]
+ [7 7 2 1]
+ [8 8 3 1]] 4
+room 0 stress = 24.166, exceeded 16.30075
+nbrooms = 1 failed. Trying 2
+happiness: 482.245
+[[0 1 0 1]
+ [0 3 0 1]
+ [0 4 0 1]
+ [0 5 0 1]
+ [1 3 0 1]
+ [1 4 0 1]
+ [1 5 0 1]
+ [2 6 1 1]
+ [2 9 1 1]
+ [3 4 0 1]
+ [3 5 0 1]
+ [4 5 0 1]
+ [6 9 1 1]
+ [7 7 2 1]
+ [8 8 3 1]] 4
+room 0 stress = 31.987, exceeded 16.30075
+nbrooms = 2 failed. Trying 3
+happiness: 333.91700000000003
+[[0 7 0 1]
+ [0 9 0 1]
+ [1 8 3 1]
+ [2 6 2 1]
+ [3 4 1 1]
+ [3 5 1 1]
+ [4 5 1 1]
+ [7 9 0 1]] 4
+room 1 stress = 19.34, exceeded 16.30075
+nbrooms = 3 failed. Trying 4
+happiness: 410.98800000000006
+[[0 1 2 1]
+ [0 3 2 1]
+ [0 5 2 1]
+ [1 3 2 1]
+ [1 5 2 1]
+ [2 7 1 1]
+ [3 5 2 1]
+ [4 6 0 1]
+ [4 9 0 1]
+ [6 9 0 1]
+ [8 8 3 1]] 4
+success! nbrooms = 4
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 2 failed. Trying 3
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 3 failed. Trying 4
+happiness: 60.0
+[[0 1 3 1]
+ [0 2 3 1]
+ [1 2 3 1]
+ [3 4 1 1]
+ [3 6 1 1]
+ [4 6 1 1]
+ [5 7 2 1]
+ [8 9 0 1]] 4
+success! nbrooms = 4
+550
+happiness: 953.143
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [0 6 0 1]
+ [0 7 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [1 6 0 1]
+ [1 7 0 1]
+ [2 3 0 1]
+ [2 6 0 1]
+ [2 7 0 1]
+ [3 6 0 1]
+ [3 7 0 1]
+ [4 5 1 1]
+ [4 8 1 1]
+ [4 9 1 1]
+ [5 8 1 1]
+ [5 9 1 1]
+ [6 7 0 1]
+ [8 9 1 1]] 2
+room 0 stress = 41.321, exceeded 22.4035
+nbrooms = 1 failed. Trying 2
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 2 failed. Trying 3
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 3 failed. Trying 4
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 4 failed. Trying 5
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 5 failed. Trying 6
+happiness: 384.432
+[[0 2 1 1]
+ [0 7 1 1]
+ [0 8 1 1]
+ [1 4 0 1]
+ [2 7 1 1]
+ [2 8 1 1]
+ [3 5 2 1]
+ [7 8 1 1]
+ [6 6 3 1]
+ [9 9 4 1]] 5
+success! nbrooms = 6
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 106.218
+[[0 7 0 1]
+ [0 8 0 1]
+ [1 6 1 1]
+ [1 9 1 1]
+ [2 3 2 1]
+ [4 5 3 1]
+ [6 9 1 1]
+ [7 8 0 1]] 4
+success! nbrooms = 2
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 296.48900000000003
+[[0 1 2 1]
+ [0 2 2 1]
+ [1 2 2 1]
+ [3 4 1 1]
+ [6 8 0 1]
+ [5 5 3 1]
+ [7 7 4 1]
+ [9 9 5 1]] 6
+room 0 stress = 6.871, exceeded 2.3266666666666667
+nbrooms = 2 failed. Trying 3
+happiness: 278.89700000000005
+[[0 6 2 1]
+ [1 5 0 1]
+ [2 3 2 1]
+ [4 9 1 1]
+ [7 8 3 1]] 4
+room 1 stress = 3.791, exceeded 3.49
+nbrooms = 3 failed. Trying 4
+happiness: 260.68899999999996
+[[0 8 2 1]
+ [0 9 2 1]
+ [1 5 1 1]
+ [2 3 3 1]
+ [4 7 0 1]
+ [8 9 2 1]
+ [6 6 4 1]] 5
+room 0 stress = 2.805, exceeded 2.7920000000000003
+nbrooms = 4 failed. Trying 5
+happiness: 261.802
+[[0 6 0 1]
+ [1 5 2 1]
+ [2 9 1 1]
+ [3 4 3 1]
+ [7 8 1 1]] 4
+success! nbrooms = 5
+550
+happiness: 612.0
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [0 4 0 1]
+ [0 5 0 1]
+ [0 6 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [1 4 0 1]
+ [1 5 0 1]
+ [1 6 0 1]
+ [2 3 0 1]
+ [2 4 0 1]
+ [2 5 0 1]
+ [2 6 0 1]
+ [3 4 0 1]
+ [3 5 0 1]
+ [3 6 0 1]
+ [4 5 0 1]
+ [4 6 0 1]
+ [5 6 0 1]
+ [7 7 1 1]
+ [8 8 2 1]
+ [9 9 3 1]] 4
+room 0 stress = 74.0, exceeded 24.75
+nbrooms = 1 failed. Trying 2
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 2 failed. Trying 3
+happiness: 336.0
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [2 3 0 1]
+ [4 5 1 1]
+ [4 6 1 1]
+ [4 7 1 1]
+ [4 8 1 1]
+ [5 6 1 1]
+ [5 7 1 1]
+ [5 8 1 1]
+ [6 7 1 1]
+ [6 8 1 1]
+ [7 8 1 1]
+ [9 9 2 1]] 3
+success! nbrooms = 3
+LOG STARTS
+--------------
+CURRENT i = 5
+
+550
+happiness: 136.0
+[[0 1 1 1]
+ [0 2 1 1]
+ [0 3 1 1]
+ [0 4 1 1]
+ [0 7 1 1]
+ [1 2 1 1]
+ [1 3 1 1]
+ [1 4 1 1]
+ [1 7 1 1]
+ [2 3 1 1]
+ [2 4 1 1]
+ [2 7 1 1]
+ [3 4 1 1]
+ [3 7 1 1]
+ [4 7 1 1]
+ [5 6 0 1]
+ [5 8 0 1]
+ [5 9 0 1]
+ [6 8 0 1]
+ [6 9 0 1]
+ [8 9 0 1]] 2
+room 0 stress = 44.149, exceeded 35.0
+nbrooms = 1 failed. Trying 2
+happiness: 100.0
+[[0 1 1 1]
+ [0 2 1 1]
+ [0 3 1 1]
+ [1 2 1 1]
+ [1 3 1 1]
+ [2 3 1 1]
+ [4 5 0 1]
+ [4 6 0 1]
+ [4 7 0 1]
+ [5 6 0 1]
+ [5 7 0 1]
+ [6 7 0 1]
+ [8 9 2 1]] 3
+room 0 stress = 32.067, exceeded 23.333333333333332
+nbrooms = 2 failed. Trying 3
+happiness: 53.0
+[[0 1 0 1]
+ [0 3 0 1]
+ [1 3 0 1]
+ [2 4 1 1]
+ [2 6 1 1]
+ [4 6 1 1]
+ [5 7 2 1]
+ [5 9 2 1]
+ [7 9 2 1]
+ [8 8 3 1]] 4
+room 1 stress = 19.651000000000003, exceeded 17.5
+nbrooms = 3 failed. Trying 4
+happiness: 60.0
+[[0 1 3 1]
+ [0 2 3 1]
+ [1 2 3 1]
+ [3 4 1 1]
+ [3 6 1 1]
+ [4 6 1 1]
+ [5 7 2 1]
+ [8 9 0 1]] 4
+success! nbrooms = 4
+--------------
+CURRENT i = 6
+
+550
+happiness: 953.143
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [0 6 0 1]
+ [0 7 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [1 6 0 1]
+ [1 7 0 1]
+ [2 3 0 1]
+ [2 6 0 1]
+ [2 7 0 1]
+ [3 6 0 1]
+ [3 7 0 1]
+ [4 5 1 1]
+ [4 8 1 1]
+ [4 9 1 1]
+ [5 8 1 1]
+ [5 9 1 1]
+ [6 7 0 1]
+ [8 9 1 1]] 2
+room 0 stress = 41.321, exceeded 22.4035
+nbrooms = 1 failed. Trying 2
+happiness: 525.975
+[[0 1 2 1]
+ [0 2 2 1]
+ [0 6 2 1]
+ [1 2 2 1]
+ [1 6 2 1]
+ [2 6 2 1]
+ [3 4 0 1]
+ [3 5 0 1]
+ [4 5 0 1]
+ [7 8 1 1]
+ [7 9 1 1]
+ [8 9 1 1]] 3
+room 0 stress = 19.832, exceeded 14.935666666666668
+nbrooms = 2 failed. Trying 3
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 3 failed. Trying 4
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 4 failed. Trying 5
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 5 failed. Trying 6
+happiness: 903.245
+[[0 2 0 1]
+ [0 3 0 1]
+ [0 6 0 1]
+ [0 7 0 1]
+ [0 8 0 1]
+ [1 9 1 1]
+ [2 3 0 1]
+ [2 6 0 1]
+ [2 7 0 1]
+ [2 8 0 1]
+ [3 6 0 1]
+ [3 7 0 1]
+ [3 8 0 1]
+ [4 5 2 1]
+ [6 7 0 1]
+ [6 8 0 1]
+ [7 8 0 1]] 3
+success! nbrooms = 6
+--------------
+CURRENT i = 7
+
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 106.218
+[[0 7 0 1]
+ [0 8 0 1]
+ [1 6 1 1]
+ [1 9 1 1]
+ [2 3 2 1]
+ [4 5 3 1]
+ [6 9 1 1]
+ [7 8 0 1]] 4
+success! nbrooms = 2
+--------------
+CURRENT i = 8
+
+550
+happiness: 0.0
+[[0 0 0 1]
+ [1 1 1 1]
+ [2 2 2 1]
+ [3 3 3 1]
+ [4 4 4 1]
+ [5 5 5 1]
+ [6 6 6 1]
+ [7 7 7 1]
+ [8 8 8 1]
+ [9 9 9 1]] 10
+nbrooms = 1 failed. Trying 2
+happiness: 350.16200000000003
+[[0 1 0 1]
+ [0 9 0 1]
+ [1 9 0 1]
+ [2 3 1 1]
+ [4 7 2 1]
+ [6 8 3 1]
+ [5 5 4 1]] 5
+room 0 stress = 6.248, exceeded 2.7920000000000003
+nbrooms = 2 failed. Trying 3
+happiness: 301.067
+[[0 6 1 1]
+ [0 9 1 1]
+ [1 2 2 1]
+ [3 4 0 1]
+ [6 9 1 1]
+ [7 8 3 1]
+ [5 5 4 1]] 5
+room 2 stress = 4.614, exceeded 2.7920000000000003
+nbrooms = 3 failed. Trying 4
+happiness: 261.802
+[[0 6 3 1]
+ [1 5 0 1]
+ [2 9 0 1]
+ [3 4 1 1]
+ [7 8 2 1]] 4
+success! nbrooms = 4
+--------------
+CURRENT i = 9
+
+550
+happiness: 612.0
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [0 4 0 1]
+ [0 5 0 1]
+ [0 6 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [1 4 0 1]
+ [1 5 0 1]
+ [1 6 0 1]
+ [2 3 0 1]
+ [2 4 0 1]
+ [2 5 0 1]
+ [2 6 0 1]
+ [3 4 0 1]
+ [3 5 0 1]
+ [3 6 0 1]
+ [4 5 0 1]
+ [4 6 0 1]
+ [5 6 0 1]
+ [7 7 1 1]
+ [8 8 2 1]
+ [9 9 3 1]] 4
+room 0 stress = 74.0, exceeded 24.75
+nbrooms = 1 failed. Trying 2
+happiness: 704.0
+[[0 1 0 1]
+ [0 2 0 1]
+ [0 3 0 1]
+ [0 4 0 1]
+ [0 6 0 1]
+ [1 2 0 1]
+ [1 3 0 1]
+ [1 4 0 1]
+ [1 6 0 1]
+ [2 3 0 1]
+ [2 4 0 1]
+ [2 6 0 1]
+ [3 4 0 1]
+ [3 6 0 1]
+ [4 6 0 1]
+ [5 7 1 1]
+ [5 8 1 1]
+ [5 9 1 1]
+ [7 8 1 1]
+ [7 9 1 1]
+ [8 9 1 1]] 2
+success! nbrooms = 2
+LOG STARTS
+
+--------------
+CURRENT i = 10
+
+550
+-- no cplex version found, using default parameter version: 12.10.0.0
+ERROR OCCURED: i = 10, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 11
+
+550
+ERROR OCCURED: i = 11, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 12
+
+550
+ERROR OCCURED: i = 12, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 13
+
+550
+ERROR OCCURED: i = 13, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 14
+
+550
+ERROR OCCURED: i = 14, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 15
+
+550
+ERROR OCCURED: i = 15, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 16
+
+550
+ERROR OCCURED: i = 16, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 17
+
+550
+ERROR OCCURED: i = 17, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 18
+
+550
+ERROR OCCURED: i = 18, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 19
+
+550
+ERROR OCCURED: i = 19, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 20
+
+550
+ERROR OCCURED: i = 20, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 21
+
+550
+ERROR OCCURED: i = 21, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 22
+
+550
+ERROR OCCURED: i = 22, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 23
+
+550
+ERROR OCCURED: i = 23, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 24
+
+550
+ERROR OCCURED: i = 24, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 25
+
+550
+ERROR OCCURED: i = 25, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 26
+
+550
+ERROR OCCURED: i = 26, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 27
+
+550
+ERROR OCCURED: i = 27, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 28
+
+550
+ERROR OCCURED: i = 28, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 29
+
+550
+ERROR OCCURED: i = 29, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 30
+
+550
+ERROR OCCURED: i = 30, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 31
+
+550
+ERROR OCCURED: i = 31, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 32
+
+550
+ERROR OCCURED: i = 32, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 33
+
+550
+ERROR OCCURED: i = 33, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 34
+
+550
+ERROR OCCURED: i = 34, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 35
+
+550
+ERROR OCCURED: i = 35, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 36
+
+550
+ERROR OCCURED: i = 36, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 37
+
+550
+ERROR OCCURED: i = 37, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 38
+
+550
+ERROR OCCURED: i = 38, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 39
+
+550
+ERROR OCCURED: i = 39, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 40
+
+550
+ERROR OCCURED: i = 40, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 41
+
+550
+ERROR OCCURED: i = 41, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 42
+
+550
+ERROR OCCURED: i = 42, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 43
+
+550
+ERROR OCCURED: i = 43, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 44
+
+550
+ERROR OCCURED: i = 44, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 45
+
+550
+ERROR OCCURED: i = 45, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 46
+
+550
+ERROR OCCURED: i = 46, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 47
+
+550
+ERROR OCCURED: i = 47, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 48
+
+550
+ERROR OCCURED: i = 48, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 49
+
+550
+ERROR OCCURED: i = 49, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 50
+
+550
+ERROR OCCURED: i = 50, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 51
+
+550
+ERROR OCCURED: i = 51, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 52
+
+550
+ERROR OCCURED: i = 52, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 53
+
+550
+ERROR OCCURED: i = 53, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 54
+
+550
+ERROR OCCURED: i = 54, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 55
+
+550
+ERROR OCCURED: i = 55, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 56
+
+550
+ERROR OCCURED: i = 56, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 57
+
+550
+ERROR OCCURED: i = 57, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 58
+
+550
+ERROR OCCURED: i = 58, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 59
+
+550
+ERROR OCCURED: i = 59, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 60
+
+550
+ERROR OCCURED: i = 60, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 61
+
+550
+ERROR OCCURED: i = 61, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 62
+
+550
+ERROR OCCURED: i = 62, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 63
+
+550
+ERROR OCCURED: i = 63, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 64
+
+550
+ERROR OCCURED: i = 64, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 65
+
+550
+ERROR OCCURED: i = 65, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 66
+
+550
+ERROR OCCURED: i = 66, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 67
+
+550
+ERROR OCCURED: i = 67, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 68
+
+550
+ERROR OCCURED: i = 68, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 69
+
+550
+ERROR OCCURED: i = 69, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 70
+
+550
+ERROR OCCURED: i = 70, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 71
+
+550
+ERROR OCCURED: i = 71, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 72
+
+550
+ERROR OCCURED: i = 72, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 73
+
+550
+ERROR OCCURED: i = 73, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 74
+
+550
+ERROR OCCURED: i = 74, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 75
+
+550
+ERROR OCCURED: i = 75, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 76
+
+550
+ERROR OCCURED: i = 76, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 77
+
+550
+ERROR OCCURED: i = 77, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 78
+
+550
+ERROR OCCURED: i = 78, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 79
+
+550
+ERROR OCCURED: i = 79, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 80
+
+550
+ERROR OCCURED: i = 80, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 81
+
+550
+ERROR OCCURED: i = 81, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 82
+
+550
+ERROR OCCURED: i = 82, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 83
+
+550
+ERROR OCCURED: i = 83, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 84
+
+550
+ERROR OCCURED: i = 84, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 85
+
+550
+ERROR OCCURED: i = 85, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 86
+
+550
+ERROR OCCURED: i = 86, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 87
+
+550
+ERROR OCCURED: i = 87, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 88
+
+550
+ERROR OCCURED: i = 88, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 89
+
+550
+ERROR OCCURED: i = 89, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 90
+
+550
+ERROR OCCURED: i = 90, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 91
+
+550
+ERROR OCCURED: i = 91, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 92
+
+550
+ERROR OCCURED: i = 92, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 93
+
+550
+ERROR OCCURED: i = 93, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 94
+
+550
+ERROR OCCURED: i = 94, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 95
+
+550
+ERROR OCCURED: i = 95, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 96
+
+550
+ERROR OCCURED: i = 96, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 97
+
+550
+ERROR OCCURED: i = 97, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 98
+
+550
+ERROR OCCURED: i = 98, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 99
+
+550
+ERROR OCCURED: i = 99, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 100
+
+550
+ERROR OCCURED: i = 100, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 101
+
+550
+ERROR OCCURED: i = 101, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 102
+
+550
+ERROR OCCURED: i = 102, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 103
+
+550
+ERROR OCCURED: i = 103, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 104
+
+550
+ERROR OCCURED: i = 104, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 105
+
+550
+ERROR OCCURED: i = 105, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 106
+
+550
+ERROR OCCURED: i = 106, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 107
+
+550
+ERROR OCCURED: i = 107, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 108
+
+550
+ERROR OCCURED: i = 108, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 109
+
+550
+ERROR OCCURED: i = 109, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 110
+
+550
+ERROR OCCURED: i = 110, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 111
+
+550
+ERROR OCCURED: i = 111, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 112
+
+550
+ERROR OCCURED: i = 112, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 113
+
+550
+ERROR OCCURED: i = 113, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 114
+
+550
+ERROR OCCURED: i = 114, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 115
+
+550
+ERROR OCCURED: i = 115, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 116
+
+550
+ERROR OCCURED: i = 116, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 117
+
+550
+ERROR OCCURED: i = 117, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 118
+
+550
+ERROR OCCURED: i = 118, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 119
+
+550
+ERROR OCCURED: i = 119, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 120
+
+550
+ERROR OCCURED: i = 120, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 121
+
+550
+ERROR OCCURED: i = 121, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 122
+
+550
+ERROR OCCURED: i = 122, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 123
+
+550
+ERROR OCCURED: i = 123, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 124
+
+550
+ERROR OCCURED: i = 124, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 125
+
+550
+ERROR OCCURED: i = 125, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 126
+
+550
+ERROR OCCURED: i = 126, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 127
+
+550
+ERROR OCCURED: i = 127, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 128
+
+550
+ERROR OCCURED: i = 128, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 129
+
+550
+ERROR OCCURED: i = 129, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 130
+
+550
+ERROR OCCURED: i = 130, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 131
+
+550
+ERROR OCCURED: i = 131, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 132
+
+550
+ERROR OCCURED: i = 132, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 133
+
+550
+ERROR OCCURED: i = 133, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 134
+
+550
+ERROR OCCURED: i = 134, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 135
+
+550
+ERROR OCCURED: i = 135, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 136
+
+550
+ERROR OCCURED: i = 136, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 137
+
+550
+ERROR OCCURED: i = 137, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 138
+
+550
+ERROR OCCURED: i = 138, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 139
+
+550
+ERROR OCCURED: i = 139, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 140
+
+550
+ERROR OCCURED: i = 140, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 141
+
+550
+ERROR OCCURED: i = 141, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 142
+
+550
+ERROR OCCURED: i = 142, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 143
+
+550
+ERROR OCCURED: i = 143, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 144
+
+550
+ERROR OCCURED: i = 144, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 145
+
+550
+ERROR OCCURED: i = 145, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 146
+
+550
+ERROR OCCURED: i = 146, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 147
+
+550
+ERROR OCCURED: i = 147, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 148
+
+550
+ERROR OCCURED: i = 148, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 149
+
+550
+ERROR OCCURED: i = 149, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 150
+
+550
+ERROR OCCURED: i = 150, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 151
+
+550
+ERROR OCCURED: i = 151, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 152
+
+550
+ERROR OCCURED: i = 152, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 153
+
+550
+ERROR OCCURED: i = 153, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 154
+
+550
+ERROR OCCURED: i = 154, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 155
+
+550
+ERROR OCCURED: i = 155, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 156
+
+550
+ERROR OCCURED: i = 156, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 157
+
+550
+ERROR OCCURED: i = 157, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 158
+
+550
+ERROR OCCURED: i = 158, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 159
+
+550
+ERROR OCCURED: i = 159, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 160
+
+550
+ERROR OCCURED: i = 160, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 161
+
+550
+ERROR OCCURED: i = 161, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 162
+
+550
+ERROR OCCURED: i = 162, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 163
+
+550
+ERROR OCCURED: i = 163, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 164
+
+550
+ERROR OCCURED: i = 164, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 165
+
+550
+ERROR OCCURED: i = 165, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 166
+
+550
+ERROR OCCURED: i = 166, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 167
+
+550
+ERROR OCCURED: i = 167, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 168
+
+550
+ERROR OCCURED: i = 168, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 169
+
+550
+ERROR OCCURED: i = 169, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 170
+
+550
+ERROR OCCURED: i = 170, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 171
+
+550
+ERROR OCCURED: i = 171, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 172
+
+550
+ERROR OCCURED: i = 172, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 173
+
+550
+ERROR OCCURED: i = 173, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 174
+
+550
+ERROR OCCURED: i = 174, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 175
+
+550
+ERROR OCCURED: i = 175, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 176
+
+550
+ERROR OCCURED: i = 176, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 177
+
+550
+ERROR OCCURED: i = 177, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 178
+
+550
+ERROR OCCURED: i = 178, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 179
+
+550
+ERROR OCCURED: i = 179, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 180
+
+550
+ERROR OCCURED: i = 180, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 181
+
+550
+ERROR OCCURED: i = 181, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 182
+
+550
+ERROR OCCURED: i = 182, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 183
+
+550
+ERROR OCCURED: i = 183, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 184
+
+550
+ERROR OCCURED: i = 184, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 185
+
+550
+ERROR OCCURED: i = 185, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 186
+
+550
+ERROR OCCURED: i = 186, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 187
+
+550
+ERROR OCCURED: i = 187, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 188
+
+550
+ERROR OCCURED: i = 188, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 189
+
+550
+ERROR OCCURED: i = 189, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 190
+
+550
+ERROR OCCURED: i = 190, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 191
+
+550
+ERROR OCCURED: i = 191, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 192
+
+550
+ERROR OCCURED: i = 192, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 193
+
+550
+ERROR OCCURED: i = 193, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 194
+
+550
+ERROR OCCURED: i = 194, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 195
+
+550
+ERROR OCCURED: i = 195, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 196
+
+550
+ERROR OCCURED: i = 196, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 197
+
+550
+ERROR OCCURED: i = 197, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 198
+
+550
+ERROR OCCURED: i = 198, <class 'docplex.mp.utils.DOcplexException'>
+
+--------------
+CURRENT i = 199
+
+550
+ERROR OCCURED: i = 199, <class 'docplex.mp.utils.DOcplexException'>
