@@ -1,6 +1,6 @@
-# CS 170 Project Fall 2020
+# CS 170 Fall 2020 Final Project - Zoom Breakout Rooms
 
-Take a look at the project spec before you get started!
+[Project Spec](https://drive.google.com/file/d/1gVRdr8cV3oXGI6lyRvB0CuJocENiIGyw/view?usp=sharing)
 
 Requirements:
 
