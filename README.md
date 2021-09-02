@@ -2,6 +2,12 @@
 
 [Project Spec](https://drive.google.com/file/d/1gVRdr8cV3oXGI6lyRvB0CuJocENiIGyw/view?usp=sharing)
 
+Constrained optimization problem. Each pair of students i, j have corresponding s_i,j and h_i,j for stress and happiness. The goal is to assign them to k rooms and maximize the total happiness value H while keeping total stress below S_max/k. 
+
+Check out `breakout-rooms.ipynb` for code at the exploration stage including outputs with longer comments related to breaking down and modeling the problem. `cp_optimize.ipynb` has the final code with some inline comments. 
+
+## Original Readme
+
 Requirements:
 
 Python 3.6+
