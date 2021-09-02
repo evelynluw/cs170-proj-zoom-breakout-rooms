@@ -6,6 +6,8 @@ Constrained optimization problem. Each pair of students i, j have corresponding 
 
 Check out `breakout-rooms.ipynb` for code at the exploration stage including outputs with longer comments related to breaking down and modeling the problem. `cp_optimize.ipynb` has the final code with some inline comments. 
 
+The optimizer used was IBM's CPLEX, more specifically the python package DOcplex. Ref: [IBM Decision Optimization CPLEX Python library (DOcplex) documentation](https://ibmdecisionoptimization.github.io/docplex-doc/) 
+
 ## Original Readme
 
 Requirements:
